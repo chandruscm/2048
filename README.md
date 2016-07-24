@@ -1,0 +1,1 @@
+A simple implementation of the popular 2048 puzzle in C++ . Visit http://chandruscm.wordpress.com/2014/10/25/2048-in-c-c/ for code explanation. (popular code base moved from gist https://gist.github.com/chandruscm/2481133c6f110ced6dd7 )
